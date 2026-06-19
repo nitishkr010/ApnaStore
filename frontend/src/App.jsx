@@ -407,7 +407,7 @@ const [showMenu, setShowMenu] =
               ">
 
                 <li>
-                  support@apnastore.com
+                  nitishkr7501@gmail.com
                 </li>
 
                 <li>
